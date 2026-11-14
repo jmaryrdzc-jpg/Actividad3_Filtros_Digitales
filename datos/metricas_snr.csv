@@ -1,0 +1,7 @@
+﻿filtro,familia,frecuencia_objetivo_hz,snr_entrada_db,snr_salida_db,mejora_snr_db,amplitud_tono_entrada,amplitud_tono_salida
+Pasa bajos,IIR,5.0,-0.37,17.48,17.85,0.896,0.896
+Pasa bajos,FIR,5.0,-0.37,18.31,18.69,0.896,0.894
+Pasa altos,IIR,120.0,-8.6,1.1,9.7,0.458,0.452
+Pasa altos,FIR,120.0,-8.6,0.93,9.53,0.458,0.458
+Pasa bandas,IIR,40.0,-4.75,12.04,16.79,0.648,0.648
+Pasa bandas,FIR,40.0,-4.75,12.8,17.55,0.648,0.646
